@@ -32,6 +32,6 @@ Un analyseur lexical pour le fragment de caml composé:<br>
 — des nombres entiers<br>
 — du mot clé fun<br>
 — des symboles ->, +, (, )<br>
-— des commentaires délimit´es par (* et *), éventuellement imbriqués<br>
-L’analyseur doit d´efinir un type pour les lexèmes, et une règle token qui renvoie le prochain
+— des commentaires délimités par (* et *), éventuellement imbriqués<br>
+L’analyseur doit définir un type pour les lexèmes, et une règle token qui renvoie le prochain
 lexème reconnu.
