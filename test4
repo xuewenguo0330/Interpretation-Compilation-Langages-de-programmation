@@ -1,0 +1,4 @@
+fun x y z -> x*y+z;;
+(*calculer x fois y ,plus z *)
+fun fun x y -> x**x
+(* c'est fause 
